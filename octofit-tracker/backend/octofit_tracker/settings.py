@@ -6,7 +6,7 @@ SECRET_KEY = 'your-secret-key'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'turbo-computing-machine-695w9rgwv9gg39xv-8000.app.github.dev']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
